@@ -1,0 +1,7 @@
+
+
+<!--
+
+This project is made possible with the help of Colt Steele who guided me in understanding the usage of Fetch API.
+
+-->
